@@ -1,23 +1,22 @@
 # ![name](https://user-images.githubusercontent.com/115201845/211271648-e5090c01-abc8-4e3a-908d-a0bb837f0c85.svg)
+
 ![spectra-program-management-side-1024x576](https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg)
 
 <p>
-As a Professional developer who has 4 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.<br>
-Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.<br>
-My Goal is to give my clients over 100% satisfaction and to implement your ideas real so that make your business thrive and grow.<br>
+I am a senior web developer, with over 14 years of professional experience in software engineering and web/mobile development. Experience includes programming application and presentation layers, building scalable server structures that improve working efficiency, and object-oriented programming. I developed front-ends and back-ends of the web app projects using primarily Python web frameworks such as Django. During these projects, I've established great experience about building a organized and yet flexible code structure. Also have rich knowledge and experience in Database and DevOps.<br>
 </p>
 
 <p>
-Being a talented and passionate developer with full-time availability, <br>
-I love to work for a long-term relationship with reasonable clients.<br>
-If you hire me, I will do my best. Warmest regards.<br><br>
-⏰ I can work 40+ hours per week, I can work in any timezone.
+I've also engaged in many projects that used Ruby on Rails framework in order to increase productivity and reduce code maintenance. Using these frameworks gave me knowledge about modern web frameworks and software architecting principles. <br>
+Additionally, I have a strong understanding of DevOpos and cloud solutions such as AWS, Azure and other cloud services to ensure scalability and performance; as well as expertise in CI/CD best practices. I have built and maintained several web applications from scratch with the help of these technologies.<br>
+I'm highly experienced in leading teams and taking ownership of projects. My ability to troubleshoot complex problems quickly makes me an invaluable asset to any team.<br><br>
+Now I'm looking forward to work for long-term clients, and hope we can achieve success!
 </p>
 
 &nbsp;
 
 <hr>
-<p align="center"> 
+<p align="center">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" width="40" height="40"/> 
@@ -37,7 +36,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-</a> 
+</a>
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
@@ -77,7 +76,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
   
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
+</a>
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -124,7 +123,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-</a> 
+</a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667">
   <img src="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="40" height="40">
@@ -152,7 +151,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
+</a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ecad22021fc13e37458a8d2b508a47352c096930f163927cb191353106f9309/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667">
   <img src="https://camo.githubusercontent.com/2ecad22021fc13e37458a8d2b508a47352c096930f163927cb191353106f9309/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="icon" width="40" height="40"></a>

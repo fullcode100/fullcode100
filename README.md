@@ -8,7 +8,7 @@ I am a senior web developer, with over 14 years of professional experience in so
 
 <p>
 I've also engaged in many projects that used Ruby on Rails framework in order to increase productivity and reduce code maintenance. Using these frameworks gave me knowledge about modern web frameworks and software architecting principles. <br>
-Additionally, I have a strong understanding of DevOpos and cloud solutions such as AWS, Azure and other cloud services to ensure scalability and performance; as well as expertise in CI/CD best practices. I have built and maintained several web applications from scratch with the help of these technologies.<br>
+Additionally, I have a strong understanding of DevOps and cloud solutions such as AWS, Azure and other cloud services to ensure scalability and performance; as well as expertise in CI/CD best practices. I have built and maintained several web applications from scratch with the help of these technologies.<br>
 I'm highly experienced in leading teams and taking ownership of projects. My ability to troubleshoot complex problems quickly makes me an invaluable asset to any team.<br><br>
 Now I'm looking forward to work for long-term clients, and hope we can achieve success!
 </p>
